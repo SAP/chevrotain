@@ -1927,9 +1927,9 @@
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
 "@types/chai@*", "@types/chai@^4.0.10", "@types/chai@^4.2.15":
-  version "4.2.18"
-  resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.2.18.tgz#0c8e298dbff8205e2266606c1ea5fbdba29b46e4"
-  integrity sha512-rS27+EkB/RE1Iz3u0XtVL5q36MGDWbgYe7zWiodyKNUnthxY0rukK5V36eiUCtCisB7NN8zKYH6DO2M37qxFEQ==
+  version "4.2.21"
+  resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.2.21.tgz#9f35a5643129df132cf3b5c1ec64046ea1af0650"
+  integrity sha512-yd+9qKmJxm496BOV9CMNaey8TWsikaZOwMRwPHQIjcOJM9oV+fi9ZMNw3JsVnbEEbo2gRTDnGEBv8pjyn67hNg==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
